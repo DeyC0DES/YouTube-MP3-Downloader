@@ -9,6 +9,8 @@ So theres is a important to thing to say, YOU NEED INSTALL A PACKAGE CALLED **FF
 
    To use it like i said before you need install that package called **ffmpeg**, you can access the link and just download it. So after the install here is the important thing **you need add the path of the package at your "environment variable"**, i will show u how to do that.
 
+   I recommend too that you put the Main file of this Youtube MP3 Converter in some folder, because the program will create a folder called sounds to store up the sounds that you gonna download.
+
 # How to put the ffpmeg at your enviroment variable
 
   First of all, i hightly recommend that u create a folder that u gonna store up your future packages if you dont have it yet, you can create it in everywhere that you want, so after that u did it lets start.
